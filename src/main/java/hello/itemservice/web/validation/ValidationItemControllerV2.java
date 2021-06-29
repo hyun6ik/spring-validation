@@ -18,7 +18,7 @@ import java.util.Map;
 @Controller
 @RequestMapping("/validation/v1/items")
 @RequiredArgsConstructor
-public class ValidationItemControllerV1 {
+public class ValidationItemControllerV2 {
 
     private final ItemRepository itemRepository;
 
